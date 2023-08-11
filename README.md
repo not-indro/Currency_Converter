@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="currency-converter-logo.png" alt="Currency Converter Logo">
+  <img src="https://github.com/not-indro/Currency_Converter/blob/main/Currency.png">
 </p>
 
 # Currency Converter
